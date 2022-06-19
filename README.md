@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Emircan-Kirez
-- 👀 I’m interested in ...
+- 👀 I’m interested in mobile progrraming and/or embedded systems.
 - 🌱 I’m currently learning C and Java.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by using @emircan_kirez on Instagram.
 
 <!---
