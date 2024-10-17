@@ -1,5 +1,5 @@
 * 👋 Hi, I’m @Emircan-Kirez
-* 👀 I’m interested in mobile programming and full stack web development.
+* 👀 I’m interested in full stack web development and Android.
 * ✔  I have advanced knowledge of C and intermediate knowledge of Java. 
 * 🌱 I’m currently learning Kotlin, Typescript and Angular.
 * 📫 You can reach me by using emircankirezz@gmail.com email or @emircan.kirez on Instagram.
